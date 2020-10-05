@@ -2,4 +2,4 @@ action:
   - .github/workflows/*
   
 automerge:
-  - ./*
+  - ./**
