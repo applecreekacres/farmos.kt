@@ -1,2 +1,5 @@
 action:
   - .github/workflows/*
+  
+automerge:
+  - ./*
