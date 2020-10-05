@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: ScaCap/action-ktlint@1.1
         with:
-          github_token: ${{ secrets.github_token }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           level: "warning"
